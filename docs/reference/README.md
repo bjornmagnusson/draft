@@ -15,6 +15,7 @@ This DEP contains the index of all Draft Enhancement Proposals, known as DEPs. D
 | [7][]   | Draft Connect                        |
 | [8][]   | Draft Tasks                          |
 | [9][]   | Alternative Container Image Builders |
+| [10][]  | Draft Check                          |
 
 [1]: dep-001.md
 [2]: dep-002.md
@@ -25,3 +26,4 @@ This DEP contains the index of all Draft Enhancement Proposals, known as DEPs. D
 [7]: dep-007.md
 [8]: dep-008.md
 [9]: dep-009.md
+[10]: dep-010.md
